@@ -1,16 +1,23 @@
-# night-drive README
+# Night Drive Theme
 
-## Working with Markdown
+A subtle midnight blue dark theme. You'll ❤︎ it.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Credits: a fork of https://github.com/joaomoreno/github-sharp-theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+### How does it looks for popular languages
 
-## For more information
+`TS`
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+  <img src="assets/ts.png" alt="TS snippet example">
 
-**Enjoy!**
+`HTML`
+
+<img src="assets/html.png" alt="HTML snippet example">
+
+`SCSS`
+
+  <img src="assets/scss.png" alt="SCSS snippet example">
+
+`JSON`
+
+  <img src="assets/json.png" alt="JSON snippet example">
