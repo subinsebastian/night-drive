@@ -1,12 +1,12 @@
 {
   "name": "night-drive",
   "displayName": "Night Drive",
-  "description": "You'll Love it. A subtle midnight blue dark theme",
+  "description": "You'll Love it. A subtle Midnight Gray Matte theme",
   "publisher": "subinsebastian",
   "repository": {
     "url": "https://github.com/subinsebastian/night-drive.git"
   },
-  "version": "1.0.2",
+  "version": "1.0.3",
   "engines": {
     "vscode": "^1.77.0"
   },
